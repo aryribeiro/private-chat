@@ -1,4 +1,6 @@
-# 💬 Private Chat - Web App em Python e Streamlit
+Obs.: caso o app esteja no modo "sleeping" (dormindo) ao entrar, basta clicar no botão que estará disponível e aguardar, para ativar o mesmo. 
+![print](https://github.com/user-attachments/assets/9820f420-0cca-4171-9dad-cca1e3f66430)
+# 💬 Private Chat: Web App em Python e Streamlit
 
 Um web app de **chat moderno em tempo real**, inspirado no clássico UOL Chat, criado com Python e Streamlit. Suporta **conversas públicas e privadas (com PIN)**, **emojis**, **envio de imagens**, **painel de administração**, e visual estilizado com HTML/CSS/JS injetados.
 
